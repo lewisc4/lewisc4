@@ -6,19 +6,27 @@
       </h1>
     </summary>
     <h3 align="center">
-        Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
+      Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
     </h3>
   </ul>
 </div>
 
 ---
 
+<h3 align="center">
+  About Me
+</h3>
+
 #### I am currently pursuing my master's degree in computer science at the [University of Massachusetts Lowell](https://www.uml.edu/) and I am expected to graduate in May 2023. I am interested in Machine Learning/AI and currently seeking a position in this field. I am particularly interested in the applications of deep learning in the fields of natural language processing (NLP) and computer vision.
 
 ---
 
+<h3 align="center">
+  My Projects
+</h3>
+
 #### Here are some of my highlighted machine learning-related projects:
-  
+
   - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) — *Graph Machine Learning* **|** *Natural Language Processing*
     - Scraped Reddit data using the Pushshift API and Google’s BigQuery to build a user-comment network
     - Implemented novel methods for identifying self-reported user diagnoses
@@ -42,13 +50,24 @@
     - Analyzed the accuracies of three machine learning models using the scikit-learn Python library
   
 ---
+
+<h3 align="center">
+  My Coursework
+</h3>
  
-#### Here are the graduate level machine learning-related courses I've taken:
+#### Here are the graduate-level machine learning-related courses I've taken:
+
   - [**`Machine Learning`**](https://www.uml.edu/catalog/courses/comp/5450)
+  
   - [**`Deep Learning`**](https://www.uml.edu/catalog/courses/COMP/5530.aspx)
+  
   - [**`Natural Language Processing`**](https://www.uml.edu/catalog/courses/COMP/5420.aspx)
+  
   - [**`Graph Machine Learning`**](https://www.uml.edu/catalog/courses/COMP/5455.aspx)
+  
   - [**`Reinforcement Learning`**](https://www.uml.edu/catalog/courses/COMP/5435.aspx)
+  
   - [**`Computing for Health and Medicine`**](https://www.uml.edu/catalog/courses/COMP/5300.aspx)
+  
   - [**`Social Computing`**](https://www.uml.edu/catalog/courses/COMP/5415.aspx)
 
