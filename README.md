@@ -5,9 +5,9 @@
         👋 Hey, I'm Chris!
       </h1>
     </summary>
-    <h3 align="center">
-      Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
-    </h3>
+  <p align="center">
+    Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
+  </p>
   </ul>
 </div>
 
