@@ -28,26 +28,12 @@
 #### Here are some of my highlighted machine learning-related projects:
 
   - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) — *Graph Machine Learning* **|** *Natural Language Processing*
-    - Scraped Reddit data using the Pushshift API and Google’s BigQuery to build a user-comment network
-    - Implemented novel methods for identifying self-reported user diagnoses
-    - Applied data preprocessing techniques to the dataset and performed feature extraction
-    - Trained and evaluated multiple graph-based models using GraphSAGE, GCN, and GAT
   
   - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) — *Deep Learning* **|** *Computer Vision*
-    - Harnessed PyTorch’s GPU support to create a facial expression recognition image model
-    - Achieved near state-of-the-art performance using limited computational resources
-    - Fine-tuned and evaluated multiple pre-trained ResNet models on the FER2013 dataset
   
   - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) — *Deep Learning* **|** *Natural Language Processing*
-    - Developed a SQL-to-text translation model using PyTorch’s GPU capabilities
-    - Outperformed all baseline models, while also using less GPU-related resources
-    - Utilized the WikiSQL dataset to fine-tune a Microsoft CodeT5 model
-    - Assessed the viability of the model using automated metrics and human evaluation
   
   - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) — *Machine Learning* **|** *Natural Language Processing*
-    - Developed Python scripts to scrape song lyrics and apply machine learning techniques to predict their genre
-    - Implemented PySpark for data preprocessing to improve overall performance using its cluster-computing capabilities
-    - Analyzed the accuracies of three machine learning models using the scikit-learn Python library
   
 ---
 
