@@ -1,9 +1,9 @@
 <div id="user-content-toc">
   <ul>
     <summary align="center">
-      <h1 style="display: inline-block;">
+      <h2 style="display: inline-block;">
         👋 Hey, I'm Chris!
-      </h1>
+      </h2>
     </summary>
   <p align="center">
     Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
@@ -27,13 +27,10 @@
 
 #### Here are some of my highlighted machine learning-related projects:
 
-  - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) — *Graph Machine Learning* **|** *Natural Language Processing*
-  
-  - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) — *Deep Learning* **|** *Computer Vision*
-  
-  - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) — *Deep Learning* **|** *Natural Language Processing*
-  
-  - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) — *Machine Learning* **|** *Natural Language Processing*
+  - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) **—** *Graph Machine Learning* **&** *Natural Language Processing*  
+  - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) **—** *Deep Learning* **&** *Computer Vision*
+  - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) **—** *Deep Learning* **&** *Natural Language Processing*
+  - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) **—** *Machine Learning* **&** *Natural Language Processing*
   
 ---
 
@@ -44,16 +41,10 @@
 #### Here are the graduate-level machine learning-related courses I've taken:
 
   - [**`Machine Learning`**](https://www.uml.edu/catalog/courses/comp/5450)
-  
   - [**`Deep Learning`**](https://www.uml.edu/catalog/courses/COMP/5530.aspx)
-  
   - [**`Natural Language Processing`**](https://www.uml.edu/catalog/courses/COMP/5420.aspx)
-  
   - [**`Graph Machine Learning`**](https://www.uml.edu/catalog/courses/COMP/5455.aspx)
-  
   - [**`Reinforcement Learning`**](https://www.uml.edu/catalog/courses/COMP/5435.aspx)
-  
   - [**`Computing for Health and Medicine`**](https://www.uml.edu/catalog/courses/COMP/5300.aspx)
-  
   - [**`Social Computing`**](https://www.uml.edu/catalog/courses/COMP/5415.aspx)
 
