@@ -23,7 +23,7 @@
 
 ### About Me
 
-#### I am currently pursuing my master's degree in computer science at the [University of Massachusetts Lowell](https://www.uml.edu/) and I am expected to graduate in May 2023. I am interested in Machine Learning/AI and currently seeking a position in this field. I am particularly interested in the applications of deep learning in the fields of natural language processing (NLP) and computer vision.
+#### I have recently received my master's degree in computer science from the [University of Massachusetts Lowell](https://www.uml.edu/). I am driven by a deep passion for leveraging the power of machine learning to solve complex problems and make a positive impact on others. Specifically, my focus lies in the application of deep learning techniques to advance the fields of natural language processing and computer vision. Currently, I am seeking positions in these fields.
 
 ---
 
