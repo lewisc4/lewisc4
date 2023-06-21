@@ -6,7 +6,8 @@
       </h1>
     </summary>
   <p align="center">
-    Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>!
+    Connect with me on <a href="https://www.linkedin.com/in/christopherlewis10/">LinkedIn</a>
+    and find out more about me <a href="https://lewisc4.github.io/">here</a>!
   </p>
   </ul>
 </div>
@@ -23,7 +24,7 @@
 
 ### About Me
 
-#### I have recently received my master's degree in computer science from the [University of Massachusetts Lowell](https://www.uml.edu/). I am driven by a deep passion for leveraging the power of machine learning to solve complex problems and make a positive impact on others. Specifically, my focus lies in the application of deep learning techniques to advance the fields of natural language processing and computer vision. Currently, I am seeking positions in these fields.
+#### I have recently received a Master of Science in Computer Science from the [University of Massachusetts Lowell](https://www.uml.edu/). I am driven by a deep passion for leveraging the power of machine learning to solve complex problems and make a positive impact on others. Specifically, my focus lies in the application of deep learning techniques to advance the fields of natural language processing and computer vision. Currently, I am seeking positions in these fields.
 
 ---
 
