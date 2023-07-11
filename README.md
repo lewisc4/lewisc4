@@ -35,6 +35,7 @@
   - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) **—** *Graph Machine Learning* **&** *Natural Language Processing*  
   - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) **—** *Deep Learning* **&** *Computer Vision*
   - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) **—** *Deep Learning* **&** *Natural Language Processing*
+  - [**`Medical Image Classifier`**](https://github.com/lewisc4/MedicalMNIST) **—** *Deep Learning* **&** *Computer Vision*
   - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) **—** *Machine Learning* **&** *Natural Language Processing*
 
 <!--
