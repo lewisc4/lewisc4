@@ -31,12 +31,12 @@
 ### My Projects
 
 #### Here are some of my highlighted machine learning-related projects:
-  - [**`iMessage GPT`**](https://github.com/lewisc4/imessaGPT) **(In Progress)** **—** Causal Language Modeling w/ PyTorch + HuggingFace
-  - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) **—** *Graph Classification w/ Tensorflow + StellarGraph*
-  - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) **—** *Image Classification w/ PyTorch + HuggingFace*
-  - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) **—** *Machine Translation w/ PyTorch + HuggingFace*
-  - [**`Medical Image Classifier`**](https://github.com/lewisc4/MedicalMNIST) **—** *Image Classification w/ PyTorch + HuggingFace*
-  - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) **—** *Text Classification w/ scikit-learn*
+  - [**`iMessage GPT`**](https://github.com/lewisc4/imessaGPT) (In Progress) **—** Causal Language Modeling w/ PyTorch + HuggingFace
+  - [**`Mental Health Disorder Classifier`**](https://github.com/lewisc4/Mental-Health-Disorder-Classifier) **—** Graph Classification w/ Tensorflow + StellarGraph
+  - [**`Facial Expression Recognition`**](https://github.com/lewisc4/Emotion-Detection) **—** Image Classification w/ PyTorch + HuggingFace
+  - [**`SQL-To-Text Translator`**](https://github.com/lewisc4/SQL-To-Text) **—** Machine Translation w/ PyTorch + HuggingFace
+  - [**`Medical Image Classifier`**](https://github.com/lewisc4/MedicalMNIST) **—** Image Classification w/ PyTorch + HuggingFace
+  - [**`Song Genre Classifier`**](https://github.com/lewisc4/Song-Genre-Predictor) **—** Text Classification w/ scikit-learn
 
 <!--
 ---
