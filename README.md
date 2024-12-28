@@ -14,7 +14,7 @@
 
 
 ## Stuff I Know
-[Python](https://www.python.org/) | [SQL Server](https://www.microsoft.com/en-us/sql-server) | [PyTorch](https://pytorch.org/) | [Numpy](https://numpy.org/) | [Pandas](https://pandas.pydata.org/) | [Weights & Biases](https://wandb.ai/site)
+[Python](https://www.python.org/) | [SQL](https://www.microsoft.com/en-us/sql-server) | [Java](https://openjdk.org/) | [C](https://en.cppreference.com/w/c/language) | [PyTorch](https://pytorch.org/) | [Numpy](https://numpy.org/) | [Pandas](https://pandas.pydata.org/) | [Weights & Biases](https://wandb.ai/site)
 <br><br>
 
 ## About Me
